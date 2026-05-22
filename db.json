@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Designing Calm React Interfaces",
+      "description": "A practical look at building blog layouts that are easy to scan, pleasant to edit, and friendly on smaller screens.",
+      "date": "2026-05-18",
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=900&q=80",
+      "category": "Design",
+      "authorId": 1,
+      "authorName": "Demo User",
+      "popularity": 124
+    },
+    {
+      "id": 2,
+      "title": "Redux Toolkit for CRUD Apps",
+      "description": "Redux Toolkit slices and async thunks keep the data layer predictable while JSON Server handles quick local persistence.",
+      "date": "2026-05-14",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80",
+      "category": "React",
+      "authorId": 2,
+      "authorName": "Asha Mehta",
+      "popularity": 211
+    },
+    {
+      "id": 3,
+      "title": "Writing Better Technical Notes",
+      "description": "Good posts start with a sharp title, a useful summary, and enough context for readers to decide what matters.",
+      "date": "2026-05-11",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80",
+      "category": "Writing",
+      "authorId": 1,
+      "authorName": "Demo User",
+      "popularity": 87
+    }
+  ]
+}
